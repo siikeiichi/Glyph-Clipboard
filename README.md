@@ -1,4 +1,2 @@
-# NoobMe
-Still new to this stuff
-
-Hello. Mag-tratry ak maghimo hin application nga sugad han Ditto pero it aadi la is mga glyphs. Paron easy access ba.
+# Glyph-Clipboard
+I will make a simillar extension like Ditto for Windows but it will be more about saving and grouping glyphs and emoticons of the user's choice.
